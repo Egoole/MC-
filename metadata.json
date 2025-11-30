@@ -1,0 +1,5 @@
+{
+  "name": "Web Minecraft (React版)",
+  "description": "一个基于React和Three.js的网页版我的世界克隆。支持第一/第三人称视角切换、自由飞行、方块搭建以及简单的打怪功能。",
+  "requestFramePermissions": []
+}
